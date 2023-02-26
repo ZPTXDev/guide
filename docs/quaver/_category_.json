@@ -1,0 +1,8 @@
+{
+  "label": "Quaver",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Simple-to-use music bot with features such as bass boost, nightcore, seek, search, and more."
+  }
+}
