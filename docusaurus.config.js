@@ -68,6 +68,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          { to: "https://devguide.zptx.dev", label: "ZPTX DevGuide", position: "left" },
           {
             href: 'https://github.com/ZPTXDev/guide',
             label: 'GitHub',

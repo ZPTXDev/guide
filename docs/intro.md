@@ -9,7 +9,7 @@ Welcome to **ZPTX Guide**!
 
 ## Who is this for?
 
-This guide is intended for anyone who needs help with ZPTX projects. It is a work in progress, and will be updated as new information becomes available.
+This guide is intended for anyone who needs help with **using** ZPTX bots. For developer help, please refer to [**ZPTX DevGuide**](https://devguide.zptx.dev).
 
 ## Getting started
 
