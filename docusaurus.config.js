@@ -10,7 +10,7 @@ const projectName = "guide";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ZPTX Guide',
-  tagline: 'Guide for ZPTX projects',
+  tagline: 'Guide for ZPTX bots',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
