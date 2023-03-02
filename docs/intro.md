@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: '/'
 ---
 
-# Home {#home}
+# Home
 
 Welcome to **ZPTX Guide**!
 

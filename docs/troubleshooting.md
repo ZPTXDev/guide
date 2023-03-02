@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Troubleshooting {#troubleshooting}
+# Troubleshooting
 
 Here are a list of common issues and errors you might find while using our bots, along with step-by-step instructions on how to fix them.
 
