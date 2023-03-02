@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 
-# Troubleshooting
+# Troubleshooting {#troubleshooting}
 
 Here are a list of common issues and errors you might find while using our bots, along with step-by-step instructions on how to fix them.
 
-## "I need the **View Channel** and **Send Messages** permissions in this channel."
+## "I need the **View Channel** and **Send Messages** permissions in this channel." {#no-view-or-send-permission}
 
 ![No View or Send permission](./img/no_view_or_send_permission.png)
 
-### Why this happened
+### Why this happened {#no-view-or-send-permission-explanation}
 
 This error typically occurs when the bot lacks the **View Channel** and/or **Send Messages** permissions in the channel that you ran the command in.
 
@@ -20,7 +20,7 @@ This error specifically points to the channel that you ran the command in, and n
 
 :::
 
-### How to fix this
+### How to fix this {#no-view-or-send-permission-fix}
 
 1. Hover over the channel name in the left sidebar, and click the **Edit Channel** button.
 
@@ -58,11 +58,11 @@ This error specifically points to the channel that you ran the command in, and n
 
     ![Save Changes button](./img/save_changes.png)
 
-## "I need the **Connect** and **Speak** permissions in the voice channel."
+## "I need the **Connect** and **Speak** permissions in the voice channel." {#no-connect-or-speak-permission}
 
 ![No Connect or Speak permission](./img/no_connect_or_speak_permission.png)
 
-### Why this happened
+### Why this happened {#no-connect-or-speak-permission-explanation}
 
 This error typically occurs when the bot lacks the **Connect** and/or **Speak** permissions in the voice/stage channel that it's trying to join.
 
@@ -72,7 +72,7 @@ This error specifically points to the voice/stage channel that it's trying to jo
 
 :::
 
-### How to fix this
+### How to fix this {#no-connect-or-speak-permission-fix}
 
 1. Hover over the channel name in the left sidebar, and click the **Edit Channel** button.
 
